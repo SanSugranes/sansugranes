@@ -1,7 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?style=for-the-badge&1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!<br>
-I'm Santiago, currently studying IT at ETML, <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Lausanne, Switzerland</b>.
+I'm Santiago, currently studying IT at ETML, <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Lausanne, Switzerland</b>.<br>
+At the moment, I'm working on my ✨portfolio✨ on my freetime.
 
 ## 👨🏻‍💻 Things I code with 
 <p>
