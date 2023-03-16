@@ -50,6 +50,9 @@ At the moment, I'm working on my ✨portfolio✨ on my freetime.
     <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
     <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    </br>
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
 ## 🌟 Awesome plugins
